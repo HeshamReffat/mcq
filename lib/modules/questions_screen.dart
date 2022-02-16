@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:mcqtask/models/questions_model.dart';
 import 'package:mcqtask/modules/result.dart';
-import 'package:mcqtask/shared/constants.dart';
 
 class QuestionsScreen extends StatefulWidget {
   const QuestionsScreen({Key? key}) : super(key: key);
